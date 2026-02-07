@@ -1,0 +1,24 @@
+baseURL = "https://eternull.ink/"
+title = "Eternull Red Team"
+theme = "PaperMod"
+
+[params]
+defaultTheme = "dark"
+ShowReadingTime = true
+ShowCodeCopyButtons = true
+ShowPostNavLinks = true
+
+[[menu.main]]
+name = "Posts"
+url = "/posts/"
+weight = 1
+
+[[menu.main]]
+name = "Labs"
+url = "/labs/"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 3

@@ -1,0 +1,44 @@
+/* Smaller white logo */
+.navbar-brand img,
+a[href="/"] img {
+  max-height: 44px !important;
+  width: auto !important;
+}
+
+/* Hero section image behavior */
+.cover.bg-top {
+  background-size: cover !important;
+  background-position: center center !important;
+  min-height: 65vh !important;
+}
+
+/* Better hero height on large screens */
+@media (min-width: 1024px) {
+  .cover.bg-top {
+    min-height: 75vh !important;
+  }
+}
+
+/* Better hero on mobile */
+@media (max-width: 768px) {
+  .cover.bg-top {
+    min-height: 50vh !important;
+    background-position: center center !important;
+  }
+}
+
+/* Reduce oversized homepage hero text */
+.cover h1,
+.cover .f1,
+.cover .f-subheadline-l {
+  font-size: 2.2rem !important;
+  line-height: 1.1 !important;
+}
+
+@media (max-width: 768px) {
+  .cover h1,
+  .cover .f1,
+  .cover .f-subheadline-l {
+    font-size: 1.5rem !important;
+  }
+}

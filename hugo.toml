@@ -1,24 +1,23 @@
 baseURL = "https://eternull.ink/"
-title = "Eternull Red Team"
-theme = "PaperMod"
+languageCode = "en-us"
+theme = "gohugo-theme-ananke"
 
 [params]
-defaultTheme = "dark"
-ShowReadingTime = true
-ShowCodeCopyButtons = true
-ShowPostNavLinks = true
+  site_logo = "/images/logo.png"
+  background_color_class = "bg-black"
+  custom_css = ["css/custom.css"]
 
 [[menu.main]]
-name = "Posts"
-url = "/posts/"
-weight = 1
+  name = "Posts"
+  url = "/posts/"
+  weight = 1
 
 [[menu.main]]
-name = "Labs"
-url = "/labs/"
-weight = 2
+  name = "Projects"
+  url = "/projects/"
+  weight = 2
 
 [[menu.main]]
-name = "About"
-url = "/about/"
-weight = 3
+  name = "About"
+  url = "/about/"
+  weight = 3

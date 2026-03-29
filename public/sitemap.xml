@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://eternull.ink/</loc><lastmod>2026-02-07T00:00:00+00:00</lastmod></url><url><loc>https://eternull.ink/posts/first-writeup/</loc><lastmod>2026-02-07T00:00:00+00:00</lastmod></url><url><loc>https://eternull.ink/tags/labs/</loc><lastmod>2026-02-07T00:00:00+00:00</lastmod></url><url><loc>https://eternull.ink/posts/</loc><lastmod>2026-02-07T00:00:00+00:00</lastmod></url><url><loc>https://eternull.ink/tags/redteam/</loc><lastmod>2026-02-07T00:00:00+00:00</lastmod></url><url><loc>https://eternull.ink/tags/</loc><lastmod>2026-02-07T00:00:00+00:00</lastmod></url><url><loc>https://eternull.ink/categories/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/polkit-cve-2021-3560/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>
